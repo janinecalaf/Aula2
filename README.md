@@ -1,1 +1,1 @@
-# Aula2
+Econometria Avançada - Séries Temporais.
